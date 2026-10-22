@@ -6,7 +6,7 @@
   "homepage": "https://demos.creative-tim.com/nextjs-argon-dashboard/",
   "description": "NextJS version of Argon Dashboard React by Creative Tim",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "resolutions": {
     "next/postcss": "8.4.49"
