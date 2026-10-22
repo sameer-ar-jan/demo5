@@ -1,6 +1,2 @@
-[build]
-  command = "bash scripts/netlify-build.sh"
-  publish = ".next"
-
 [build.environment]
-  NODE_VERSION = "12"
+  NODE_VERSION = "18"
